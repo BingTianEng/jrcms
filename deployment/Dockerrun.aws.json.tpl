@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "davisliu/jrcms:TAG",
+    "Name": "bingtianeng/jr:TAG",
     "Update": "true"
   },
   "Ports": [
